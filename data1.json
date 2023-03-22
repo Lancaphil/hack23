@@ -1,0 +1,1397 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.510827, 120.894151 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Головной Шлюз-регулятор с.Тамалакан<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=33 м3/с, материал - ж/б, НПУ=1,8 м, ФПУ=4,05 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>None" ],
+        "balloonContentHeader": "<font size=3><b>Головной Шлюз-регулятор с.Тамалакан</b></font>",
+        "clusterCaption": "Головной Шлюз-регулятор с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.505403, 120.896157 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Тамалакан<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 892 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=5,  mниз=2<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>None" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Тамалакан</b></font>",
+        "clusterCaption": "Плотина с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.511069, 120.895846 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Глухая дамба с.Тамалакан<br/><font size=2><b>Вид: </font></b>Дамба<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 1015 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=4,  mниз=2<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>None" ],
+        "balloonContentHeader": "<font size=3><b>Глухая дамба с.Тамалакан</b></font>",
+        "clusterCaption": "Глухая дамба с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.498634, 120.829034 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №2 Арыылаах с.Тамалакан<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=33 м3/с, материал - ж/б, НПУ=2,85 м, ФПУ=3,05 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>361" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №2 Арыылаах с.Тамалакан</b></font>",
+        "clusterCaption": "Шлюз регулятор №2 Арыылаах с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.498992, 120.828164 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Тамалакан<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 302,5 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=4,  mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>361" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Тамалакан</b></font>",
+        "clusterCaption": "Плотина с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.520278, 120.752584 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №3 Орто-Кюель с.Тамалакан<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=14 м3/с, материал - ж/б, НПУ=2,40 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>273" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №3 Орто-Кюель с.Тамалакан</b></font>",
+        "clusterCaption": "Шлюз регулятор №3 Орто-Кюель с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.519082, 120.754537 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Тамалакан<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 336 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=3,  mниз=2,5<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>273" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Тамалакан</b></font>",
+        "clusterCaption": "Плотина с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.506107, 120.718208 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №4 Кустук с.Оросу<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=14 м3/с, материал - ж/б, НПУ=2,30 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2009<br/><font size=2><b>Площадь оросительной системы, га: </font></b>273" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №4 Кустук с.Оросу</b></font>",
+        "clusterCaption": "Шлюз регулятор №4 Кустук с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.505867, 120.718041 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Оросу<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 76 м, материал-грунт, ширина по верху-6,5 м,mверх=4,  mниз=2<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2009<br/><font size=2><b>Площадь оросительной системы, га: </font></b>273" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Оросу</b></font>",
+        "clusterCaption": "Плотина с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.508594, 120.657537 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №5 Негодяк с.Оросу<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=22,5 м3/с, материал - ж/б, НПУ=3,20 м, ФПУ=3,6 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2011<br/><font size=2><b>Площадь оросительной системы, га: </font></b>566" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №5 Негодяк с.Оросу</b></font>",
+        "clusterCaption": "Шлюз регулятор №5 Негодяк с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.508787, 120.658326 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Оросу<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 160 м, материал-грунт, ширина по верху-6,5 м, заложение откосов mверх=4,  mниз=2<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2011<br/><font size=2><b>Площадь оросительной системы, га: </font></b>566" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Оросу</b></font>",
+        "clusterCaption": "Плотина с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.528171, 120.601503 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №6 Остуолба с.Балаганнах<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=15 м3/с, материал - ж/б, НПУ=3,30 м, ФПУ=3,9 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2016<br/><font size=2><b>Площадь оросительной системы, га: </font></b>210" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №6 Остуолба с.Балаганнах</b></font>",
+        "clusterCaption": "Шлюз регулятор №6 Остуолба с.Балаганнах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.527681, 120.601844 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Балаганнах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 298 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=4,  mниз=2<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2016<br/><font size=2><b>Площадь оросительной системы, га: </font></b>210" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Балаганнах</b></font>",
+        "clusterCaption": "Плотина с.Балаганнах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.533498, 120.660618 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №6 Сэймэлэк с.Балаганнах<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=10 м3/с, материал - дерево, НПУ=2,90 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>210" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №6 Сэймэлэк с.Балаганнах</b></font>",
+        "clusterCaption": "Шлюз регулятор №6 Сэймэлэк с.Балаганнах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.533498, 120.660167 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Балаганнах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 298 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=4,  mниз=2<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>210" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Балаганнах</b></font>",
+        "clusterCaption": "Плотина с.Балаганнах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.533118, 120.725623 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №7 Дьаргалах с.Оросу<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=10 м3/с, материал - дерево, НПУ=2,40 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>90" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №7 Дьаргалах с.Оросу</b></font>",
+        "clusterCaption": "Шлюз регулятор №7 Дьаргалах с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.533423, 120.725062 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Оросуно-Негодяхская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Оросу<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 298 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=4,  mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1969<br/><font size=2><b>Площадь оросительной системы, га: </font></b>90" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Оросу</b></font>",
+        "clusterCaption": "Плотина с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.544756, 120.933094 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Паводковый водосброс с.Харбалах<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=35 м3/с, материал - ж/б, НПУ=3,4 м, ФПУ=4,1 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>179" ],
+        "balloonContentHeader": "<font size=3><b>Паводковый водосброс с.Харбалах</b></font>",
+        "clusterCaption": "Паводковый водосброс с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.547620, 120.935225 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водозаборное сооружение правобережное с.Харбалах<br/><font size=2><b>Вид: </font></b>Водозаборное сооружение<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=1,7 м, ФПУ=2,4 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>179" ],
+        "balloonContentHeader": "<font size=3><b>Водозаборное сооружение правобережное с.Харбалах</b></font>",
+        "clusterCaption": "Водозаборное сооружение правобережное с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.543093, 120.931947 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водозаборное сооружение левобережное с.Харбалах<br/><font size=2><b>Вид: </font></b>Водозаборное сооружение<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=1,7 м, ФПУ=2,4 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>179" ],
+        "balloonContentHeader": "<font size=3><b>Водозаборное сооружение левобережное с.Харбалах</b></font>",
+        "clusterCaption": "Водозаборное сооружение левобережное с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.537341, 120.931666 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Катастрофический сброс с.Харбалах<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>179" ],
+        "balloonContentHeader": "<font size=3><b>Катастрофический сброс с.Харбалах</b></font>",
+        "clusterCaption": "Катастрофический сброс с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.545926, 120.934016 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина водозаборных сооружений с.Харбалах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 1 230 м, материал-грунт, ширина по верху-6 м, заложение откосов mверх=7, mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>179" ],
+        "balloonContentHeader": "<font size=3><b>Плотина водозаборных сооружений с.Харбалах</b></font>",
+        "clusterCaption": "Плотина водозаборных сооружений с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.568129, 120.897989 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросное сооружение на СК-3 с.Тамалакан<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=2,08 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>119" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросное сооружение на СК-3 с.Тамалакан</b></font>",
+        "clusterCaption": "Водосбросное сооружение на СК-3 с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.568068, 120.897761 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Тамалакан<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Материал-грунт, ширина по верху-6 м, заложение откосов mверх=7, mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>119" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Тамалакан</b></font>",
+        "clusterCaption": "Плотина с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.562742, 120.882718 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросное сооружение на ЛК-5 с.Харбалах<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=1,72 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>119" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросное сооружение на ЛК-5 с.Харбалах</b></font>",
+        "clusterCaption": "Водосбросное сооружение на ЛК-5 с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.563066, 120.882757 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Харбалах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Материал-грунт, ширина по верху-6 м, заложение откосов mверх=7, mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>119" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Харбалах</b></font>",
+        "clusterCaption": "Плотина с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.551766, 120.835887 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросное сооружение на СК-5 с.Тамалакан<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=2,41 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>336" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросное сооружение на СК-5 с.Тамалакан</b></font>",
+        "clusterCaption": "Водосбросное сооружение на СК-5 с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.551887, 120.835688 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Тамалакан<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Материал-грунт, ширина по верху-6 м, заложение откосов mверх=7, mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>336" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Тамалакан</b></font>",
+        "clusterCaption": "Плотина с.Тамалакан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.574035, 120.967671 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросное сооружение на СК-4 с.Харбалах<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=3,47 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>453" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросное сооружение на СК-4 с.Харбалах</b></font>",
+        "clusterCaption": "Водосбросное сооружение на СК-4 с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.574250, 120.963511 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Харбалах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Материал-грунт, ширина по верху-6 м, заложение откосов mверх=7, mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>453" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Харбалах</b></font>",
+        "clusterCaption": "Плотина с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.556285, 120.974890 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросное сооружение на СК-6 ПК 34+20 с.Харбалах<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=2,34 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>453" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросное сооружение на СК-6 ПК 34+20 с.Харбалах</b></font>",
+        "clusterCaption": "Водосбросное сооружение на СК-6 ПК 34+20 с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.576431, 121.018864 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросное сооружение на СК-6 ПК 72+60 с.Харбалах<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=2,66 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>190" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросное сооружение на СК-6 ПК 72+60 с.Харбалах</b></font>",
+        "clusterCaption": "Водосбросное сооружение на СК-6 ПК 72+60 с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.576422, 121.018510 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>Харбалахская СЛО<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Харбалах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Материал-грунт, ширина по верху-6 м, заложение откосов mверх=7, mниз=3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1985<br/><font size=2><b>Площадь оросительной системы, га: </font></b>190" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Харбалах</b></font>",
+        "clusterCaption": "Плотина с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.582100, 120.990434 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Кур-От<br/><font size=2><b>Наименоваение объекта: </font></b>Водосброс с.Харбалах<br/><font size=2><b>Вид: </font></b>Водосбросное сооружение <br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=35,1 м3/с, материал - ж/б, НПУ=3,5 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1990<br/><font size=2><b>Площадь оросительной системы, га: </font></b>258" ],
+        "balloonContentHeader": "<font size=3><b>Водосброс с.Харбалах</b></font>",
+        "clusterCaption": "Водосброс с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.583082, 120.990802 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Кур-От<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Харбалах<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 598 м, материал-грунт, ширина по верху-6,5 м, заложение откосов mверх=4, mниз=3,5<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1990<br/><font size=2><b>Площадь оросительной системы, га: </font></b>258" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Харбалах</b></font>",
+        "clusterCaption": "Плотина с.Харбалах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.603410, 120.971118 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Кур-От<br/><font size=2><b>Наименоваение объекта: </font></b>Водовыпуск трубчатый с.Оросу<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=19,2 м3/с, материал - стальные трубы d=1020 мм, 4 нитки, НПУ=3,26 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1990<br/><font size=2><b>Площадь оросительной системы, га: </font></b>258" ],
+        "balloonContentHeader": "<font size=3><b>Водовыпуск трубчатый с.Оросу</b></font>",
+        "clusterCaption": "Водовыпуск трубчатый с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.603458, 120.970727 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Кур-От<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Оросу<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхневилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Длина - 65 м, материал-грунт, ширина по верху-6,5 м, заложение откосов mверх=4, mниз=3,5<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1990<br/><font size=2><b>Площадь оросительной системы, га: </font></b>258" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Оросу</b></font>",
+        "clusterCaption": "Плотина с.Оросу"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.709154, 121.941314 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чинэкэ<br/><font size=2><b>Наименоваение объекта: </font></b>Головной водосброс с.Чинеке<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Вилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Три трубы диам.-1,1 м, длиной по 20 м,  щитовые механизмы-3 шт., Q=5,9 м³/с<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2013<br/><font size=2><b>Площадь оросительной системы, га: </font></b>140" ],
+        "balloonContentHeader": "<font size=3><b>Головной водосброс с.Чинеке</b></font>",
+        "clusterCaption": "Головной водосброс с.Чинеке"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.703516, 121.926120 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чинэкэ<br/><font size=2><b>Наименоваение объекта: </font></b>Водозаборный Шлюз-регулятор с.Чинеке<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Вилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Труба диам.-1,1 м, длиной 20 м, щитовой механизм-1шт. Q=4,0 м³/с<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2014<br/><font size=2><b>Площадь оросительной системы, га: </font></b>140" ],
+        "balloonContentHeader": "<font size=3><b>Водозаборный Шлюз-регулятор с.Чинеке</b></font>",
+        "clusterCaption": "Водозаборный Шлюз-регулятор с.Чинеке"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.702429, 121.913588 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чинэкэ<br/><font size=2><b>Наименоваение объекта: </font></b>Подпорный Шлюз-регулятор с.Чинеке<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Вилюйский улус<br/><font size=2><b>Харатеристики: </font></b>Две трубы диам.-1,1 м, длиной по 20 м, щитовой механизм-2 шт,  Q=4,8 м³/с. Общая длина- 33 м, ширина-14,5  м, высота-3,5 м <br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2014<br/><font size=2><b>Площадь оросительной системы, га: </font></b>140" ],
+        "balloonContentHeader": "<font size=3><b>Подпорный Шлюз-регулятор с.Чинеке</b></font>",
+        "clusterCaption": "Подпорный Шлюз-регулятор с.Чинеке"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 62.650401, 117.385455 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Бордон 3<br/><font size=2><b>Наименоваение объекта: </font></b>Бордон 3 с.Эльгэй<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Сунтарский улус<br/><font size=2><b>Харатеристики: </font></b>Ж/б ш/р - 1 шт; дамба - 1 шт; длина канала - 22,3 км. пропускная способность - 28 м3/сек.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>540" ],
+        "balloonContentHeader": "<font size=3><b>Бордон 3 с.Эльгэй</b></font>",
+        "clusterCaption": "Бордон 3 с.Эльгэй"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.381151, 118.359739 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор Джикимда с.Джикимда<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=28 м3/сек, НПУ =122,5 м по БС, (2,5 м), ФПУ=123,00 м по БС, (3,0 м), длина эксплуатационной дороги 173 м, 1 мост.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1989<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор Джикимда с.Джикимда</b></font>",
+        "clusterCaption": "Шлюз-регулятор Джикимда с.Джикимда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.380737, 118.359349 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Джикимда<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 324 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1973<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Джикимда</b></font>",
+        "clusterCaption": "Плотина с.Джикимда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.353071, 118.402403 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор Головной с.Антоновка<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=22 м3/сек, НПУ =120,40 м по БС, (3,1 м), ФПУ=121,30 м по БС, (4,0 м), длина эксплуатационной дороги 5600 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2010<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор Головной с.Антоновка</b></font>",
+        "clusterCaption": "Шлюз-регулятор Головной с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.352979, 118.402898 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Антоновка<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 254 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2010<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Антоновка</b></font>",
+        "clusterCaption": "Плотина с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.353035, 118.404809 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор Кочай (впускной) с.Антоновка<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=35 м3/сек, НПУ =120,40 м по БС, (2,90 м), ФПУ=120,80 м по БС, (3,3 м), длина эксплуатационной дороги 5400 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2005<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор Кочай (впускной) с.Антоновка</b></font>",
+        "clusterCaption": "Шлюз-регулятор Кочай (впускной) с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.353604, 118.405311 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Антоновка<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 254 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2005<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Антоновка</b></font>",
+        "clusterCaption": "Плотина с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.353195, 118.404462 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Антоновка<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 600 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2005<br/><font size=2><b>Площадь оросительной системы, га: </font></b>330" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Антоновка</b></font>",
+        "clusterCaption": "Плотина с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.325189, 118.454801 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор Кочай (Сбросной) с.Антоновка<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=14,8 м3/сек, НПУ =117,20 м по БС, (1,70 м), ФПУ=117,50 м по БС, (2,0 м), длина эксплуатационной дороги 900 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2015<br/><font size=2><b>Площадь оросительной системы, га: </font></b>649" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор Кочай (Сбросной) с.Антоновка</b></font>",
+        "clusterCaption": "Шлюз-регулятор Кочай (Сбросной) с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.325391, 118.455829 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Левобережье<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Антоновка<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 92 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2015<br/><font size=2><b>Площадь оросительной системы, га: </font></b>649" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Антоновка</b></font>",
+        "clusterCaption": "Плотина с.Антоновка"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.500170, 118.470037 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Головной Шлюз-регулятор с.Чаппанда<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=28 м3/сек, НПУ =127,60 м по БС, (2,4 м), ФПУ=129,60 м по БС, (4,4 м), длина эксплуатационной дороги 20400 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1986<br/><font size=2><b>Площадь оросительной системы, га: </font></b>1462" ],
+        "balloonContentHeader": "<font size=3><b>Головной Шлюз-регулятор с.Чаппанда</b></font>",
+        "clusterCaption": "Головной Шлюз-регулятор с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.500022, 118.469348 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Чаппанда<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 624 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1986<br/><font size=2><b>Площадь оросительной системы, га: </font></b>1462" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Чаппанда</b></font>",
+        "clusterCaption": "Плотина с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.500113, 118.472844 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Автоводосброс с.Чаппанда<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Автоводосброс железобетонной конструкции, пропускная способность Q=63,8 м3/сек, НПУ =127,60 м по БС, длина эксплуатационной дороги 20600 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1986<br/><font size=2><b>Площадь оросительной системы, га: </font></b>1462" ],
+        "balloonContentHeader": "<font size=3><b>Автоводосброс с.Чаппанда</b></font>",
+        "clusterCaption": "Автоводосброс с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.500455, 118.473304 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Чаппанда<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 624 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1986<br/><font size=2><b>Площадь оросительной системы, га: </font></b>1462" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Чаппанда</b></font>",
+        "clusterCaption": "Плотина с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.451643, 118.498102 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №1 (Бекюнэй) с.Чаппанда<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=27 м3/сек, НПУ =126,00 м по БС, (4,0 м), ФПУ=126,40 м по БС, (4,40 м), длина эксплуатационной дороги 4780 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1988<br/><font size=2><b>Площадь оросительной системы, га: </font></b>267" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №1 (Бекюнэй) с.Чаппанда</b></font>",
+        "clusterCaption": "Шлюз регулятор №1 (Бекюнэй) с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.451940, 118.498252 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Чаппанда<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 121 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1988<br/><font size=2><b>Площадь оросительной системы, га: </font></b>267" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Чаппанда</b></font>",
+        "clusterCaption": "Плотина с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.446743, 118.648700 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз регулятор №2 (Туостаах) с.Чаппанда<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=30 м3/сек, НПУ =119,00 м по БС, (3,0 м), ФПУ, длина эксплуатационной дороги 2200 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1987<br/><font size=2><b>Площадь оросительной системы, га: </font></b>279,13" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз регулятор №2 (Туостаах) с.Чаппанда</b></font>",
+        "clusterCaption": "Шлюз регулятор №2 (Туостаах) с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.446607, 118.647926 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Чаппанда<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 175 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1987<br/><font size=2><b>Площадь оросительной системы, га: </font></b>279,13" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Чаппанда</b></font>",
+        "clusterCaption": "Плотина с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.442169, 118.711729 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №3 (Арыылаах) с.Чаппанда<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=30 м3/сек, НПУ =113,60 м по БС, (3,0 м), ФПУ=114,00 м по БС, (3,40 м), длина эксплуатационной дороги 950 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1994<br/><font size=2><b>Площадь оросительной системы, га: </font></b>442" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №3 (Арыылаах) с.Чаппанда</b></font>",
+        "clusterCaption": "Шлюз-регулятор №3 (Арыылаах) с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.441926, 118.711997 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Чаппанда<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 167 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1994<br/><font size=2><b>Площадь оросительной системы, га: </font></b>442" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Чаппанда</b></font>",
+        "clusterCaption": "Плотина с.Чаппанда"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.505957, 118.809466 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №4 (Суптурган) с.Жархан<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=27 м3/сек, НПУ =113,60 м по БС, (4,0 м), ФПУ=114,00 м по БС, (4,40 м), длина эксплуатационной дороги 1170 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1989<br/><font size=2><b>Площадь оросительной системы, га: </font></b>370" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №4 (Суптурган) с.Жархан</b></font>",
+        "clusterCaption": "Шлюз-регулятор №4 (Суптурган) с.Жархан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.506170, 118.808955 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Жархан<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 262 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1989<br/><font size=2><b>Площадь оросительной системы, га: </font></b>370" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Жархан</b></font>",
+        "clusterCaption": "Плотина с.Жархан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.497000, 118.845003 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чаппандинска<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №5 (Мар-Кюель) с.Жархан<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Трубчатый шлюз-регулятор железобетонной конструкции, пропускная способность Q=21,6 м3/сек, НПУ =111,00 м по БС, ФПУ=111,25 м по БС,<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1990<br/><font size=2><b>Площадь оросительной системы, га: </font></b>150" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №5 (Мар-Кюель) с.Жархан</b></font>",
+        "clusterCaption": "Шлюз-регулятор №5 (Мар-Кюель) с.Жархан"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.605832, 118.885673 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Муосанская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №6 с.Хатынг-Сысы<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=12,7 м3/сек, НПУ =113,200 м по БС, (1,5 м), длина эксплуатационной дороги 3040 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>511" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №6 с.Хатынг-Сысы</b></font>",
+        "clusterCaption": "Шлюз-регулятор №6 с.Хатынг-Сысы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.605884, 118.885348 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Муосанская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Хатынг-Сысы<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 70 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>511" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Хатынг-Сысы</b></font>",
+        "clusterCaption": "Плотина с.Хатынг-Сысы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.609121, 118.922197 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Муосанская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №8 с.Хатынг-Сысы<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=14,0 м3/сек, НПУ =113,00 м по БС, (2,9 м), длина эксплуатационной дороги 8460 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>511" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №8 с.Хатынг-Сысы</b></font>",
+        "clusterCaption": "Шлюз-регулятор №8 с.Хатынг-Сысы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.609030, 118.921961 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Муосанская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Хатынг-Сысы<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 57 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>511" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Хатынг-Сысы</b></font>",
+        "clusterCaption": "Плотина с.Хатынг-Сысы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.601207, 118.951942 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Муосанская<br/><font size=2><b>Наименоваение объекта: </font></b>Земляная плотина с.Хатынг-Сысы<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 144 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>511" ],
+        "balloonContentHeader": "<font size=3><b>Земляная плотина с.Хатынг-Сысы</b></font>",
+        "clusterCaption": "Земляная плотина с.Хатынг-Сысы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.599247, 119.117142 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Терютская<br/><font size=2><b>Наименоваение объекта: </font></b>Головной Шлюз-регулятор №1 с.Акана<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=25,75 м3/сек, НПУ =110,50 м по БС, (2,0 м)<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1981<br/><font size=2><b>Площадь оросительной системы, га: </font></b>None" ],
+        "balloonContentHeader": "<font size=3><b>Головной Шлюз-регулятор №1 с.Акана</b></font>",
+        "clusterCaption": "Головной Шлюз-регулятор №1 с.Акана"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.599064, 119.117426 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Терютская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Акана<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 70 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1981<br/><font size=2><b>Площадь оросительной системы, га: </font></b>None" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Акана</b></font>",
+        "clusterCaption": "Плотина с.Акана"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.620249, 119.225329 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Терютская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №2 (Ойбон-Эбэ) с.Акана<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор деревянный, пропускная способность Q=20,24 м3/сек, НПУ =110,30 м по БС, длина эксплуатационной дороги 7150 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1981<br/><font size=2><b>Площадь оросительной системы, га: </font></b>333" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №2 (Ойбон-Эбэ) с.Акана</b></font>",
+        "clusterCaption": "Шлюз-регулятор №2 (Ойбон-Эбэ) с.Акана"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.620546, 119.225284 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Терютская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Акана<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 49 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1981<br/><font size=2><b>Площадь оросительной системы, га: </font></b>333" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Акана</b></font>",
+        "clusterCaption": "Плотина с.Акана"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.598209, 119.435679 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Терютская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №3 (Миисэн) с.Едей<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=28 м3/сек, НПУ =107,70 м по БС, (2,20 м), длина эксплуатационной дороги 720м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1981<br/><font size=2><b>Площадь оросительной системы, га: </font></b>984" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №3 (Миисэн) с.Едей</b></font>",
+        "clusterCaption": "Шлюз-регулятор №3 (Миисэн) с.Едей"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.597041, 119.434365 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Терютская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Едей<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>плотина длиной 49 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1981<br/><font size=2><b>Площадь оросительной системы, га: </font></b>984" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Едей</b></font>",
+        "clusterCaption": "Плотина с.Едей"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.575473, 119.672659 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Саттинская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №4 (Тюкэн) с.Едей<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=6,6 м3/сек, НПУ =106,75 м по БС, (2,65 м), длина эксплуатационной дороги 12800 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1984<br/><font size=2><b>Площадь оросительной системы, га: </font></b>359" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №4 (Тюкэн) с.Едей</b></font>",
+        "clusterCaption": "Шлюз-регулятор №4 (Тюкэн) с.Едей"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.542048, 119.484316 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Саттинская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Акана<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 70 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1984<br/><font size=2><b>Площадь оросительной системы, га: </font></b>359" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Акана</b></font>",
+        "clusterCaption": "Плотина с.Акана"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.542284, 119.484978 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Саттинская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №5 (Сата) с.Ынахсыт<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор железобетонной конструкции, пропускная способность Q=19,74 м3/сек, НПУ =106,75 м по БС, (2,95 м), длина эксплуатационной дороги 10800 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1984<br/><font size=2><b>Площадь оросительной системы, га: </font></b>666" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №5 (Сата) с.Ынахсыт</b></font>",
+        "clusterCaption": "Шлюз-регулятор №5 (Сата) с.Ынахсыт"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.679903, 117.906927 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Саттинская<br/><font size=2><b>Наименоваение объекта: </font></b>Плотина с.Ынахсыт<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Плотина длиной 57 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1984<br/><font size=2><b>Площадь оросительной системы, га: </font></b>666" ],
+        "balloonContentHeader": "<font size=3><b>Плотина с.Ынахсыт</b></font>",
+        "clusterCaption": "Плотина с.Ынахсыт"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.780679, 130.781899 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Таландинская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №3 с.Мальжегар<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Нюрбинский улус<br/><font size=2><b>Харатеристики: </font></b>Шлюз-регулятор деревянный, пропускная способность Q=15 м3/сек, НПУ =119,00 м по БС, (2,15 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1976<br/><font size=2><b>Площадь оросительной системы, га: </font></b>732" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №3 с.Мальжегар</b></font>",
+        "clusterCaption": "Шлюз-регулятор №3 с.Мальжегар"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.781522, 130.780166 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хоробутская<br/><font size=2><b>Наименоваение объекта: </font></b>Водосбросной Шлюз-регулятор с.Хоробут<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=200 м3/с, материал - ж/б, НПУ=142 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1990<br/><font size=2><b>Площадь оросительной системы, га: </font></b>None" ],
+        "balloonContentHeader": "<font size=3><b>Водосбросной Шлюз-регулятор с.Хоробут</b></font>",
+        "clusterCaption": "Водосбросной Шлюз-регулятор с.Хоробут"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.795954, 130.742557 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хоробутская<br/><font size=2><b>Наименоваение объекта: </font></b>Головной Шлюз-регулятор с.Хоробут<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=40 м3/с, материал - ж/б, НПУ=141,5 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1993<br/><font size=2><b>Площадь оросительной системы, га: </font></b>500" ],
+        "balloonContentHeader": "<font size=3><b>Головной Шлюз-регулятор с.Хоробут</b></font>",
+        "clusterCaption": "Головной Шлюз-регулятор с.Хоробут"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.820885, 130.731164 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хоробутская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №1 с.Хоробут<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=20 м3/с, материал - ж/б, НПУ=140,15 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1988<br/><font size=2><b>Площадь оросительной системы, га: </font></b>100" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №1 с.Хоробут</b></font>",
+        "clusterCaption": "Шлюз-регулятор №1 с.Хоробут"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.837491, 130.683891 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хоробутская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №2 с.Хоробут<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=19 м3/с, материал - ж/б, НПУ=137 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1983<br/><font size=2><b>Площадь оросительной системы, га: </font></b>295" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №2 с.Хоробут</b></font>",
+        "clusterCaption": "Шлюз-регулятор №2 с.Хоробут"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.860764, 130.663083 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хоробутская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №3 с.Хоробут<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=21,2 м3/с, материал - ж/б, НПУ=135 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1988<br/><font size=2><b>Площадь оросительной системы, га: </font></b>361" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №3 с.Хоробут</b></font>",
+        "clusterCaption": "Шлюз-регулятор №3 с.Хоробут"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.726598, 131.072668 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хоробутская<br/><font size=2><b>Наименоваение объекта: </font></b>Шлюз-регулятор №4 с.Хоробут<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=19 м3/с, материал - ж/б, НПУ=132 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1993<br/><font size=2><b>Площадь оросительной системы, га: </font></b>348" ],
+        "balloonContentHeader": "<font size=3><b>Шлюз-регулятор №4 с.Хоробут</b></font>",
+        "clusterCaption": "Шлюз-регулятор №4 с.Хоробут"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.837491, 130.683891 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Шестакова <br/><font size=2><b>Наименоваение объекта: </font></b>Шестакова с.Суола<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Q max=40 м3/с, материал - ж/б, НПУ=141,5 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1993<br/><font size=2><b>Площадь оросительной системы, га: </font></b>550" ],
+        "balloonContentHeader": "<font size=3><b>Шестакова с.Суола</b></font>",
+        "clusterCaption": "Шестакова с.Суола"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.611283, 131.406517 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Бютейдях<br/><font size=2><b>Наименоваение объекта: </font></b>Бютейдях с.Бютейдях<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>Ш-р ж/б конструкции -1 шт, Ш-р деревянной конструкции -3 шт, плотина - 1 шт.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1987<br/><font size=2><b>Площадь оросительной системы, га: </font></b>100" ],
+        "balloonContentHeader": "<font size=3><b>Бютейдях с.Бютейдях</b></font>",
+        "clusterCaption": "Бютейдях с.Бютейдях"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.849863, 131.323741 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Балбарья<br/><font size=2><b>Наименоваение объекта: </font></b>Балбарья с.Сымах<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Мегино-Кангаласский улус<br/><font size=2><b>Харатеристики: </font></b>ж/б ш/р - 1 шт; деревянный ш/р - 3 шт; СНПЭ - 500/10 - 2 шт; ТП - 2 шт; длина канала - 14,4 км; плотины - 4 шт.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1997<br/><font size=2><b>Площадь оросительной системы, га: </font></b>65" ],
+        "balloonContentHeader": "<font size=3><b>Балбарья с.Сымах</b></font>",
+        "clusterCaption": "Балбарья с.Сымах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 62.021355, 125.788753 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Эбэ-Шологон<br/><font size=2><b>Наименоваение объекта: </font></b>Эбэ-Шологон п.Ерт<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Горный улус<br/><font size=2><b>Харатеристики: </font></b>ж/б шлюз/регулятор; плотина 565 м.; оградительная дамба 1765 м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1986<br/><font size=2><b>Площадь оросительной системы, га: </font></b>172" ],
+        "balloonContentHeader": "<font size=3><b>Эбэ-Шологон п.Ерт</b></font>",
+        "clusterCaption": "Эбэ-Шологон п.Ерт"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 62.570491, 125.208636 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Орто-Сурт<br/><font size=2><b>Наименоваение объекта: </font></b>Орто-Сурт с.Орто-Сурт<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Горный улус<br/><font size=2><b>Харатеристики: </font></b>ж/б ш/р; магистральный канал - 12 км; осушительный канал 2,75 км; плотина длиной - 2,4 км; дамба ДМ -835 м; дамба Д2 - 275 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1978<br/><font size=2><b>Площадь оросительной системы, га: </font></b>418" ],
+        "balloonContentHeader": "<font size=3><b>Орто-Сурт с.Орто-Сурт</b></font>",
+        "clusterCaption": "Орто-Сурт с.Орто-Сурт"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 62.148087, 127.622348 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чакыя<br/><font size=2><b>Наименоваение объекта: </font></b>Чакыя с.Магарас<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Горный улус<br/><font size=2><b>Харатеристики: </font></b>строечно - обшив. ш/р - 3 шт; мост деревянный - 1 шт; плотина - 3 шт; дамба обвалования - 3 шт;<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>168" ],
+        "balloonContentHeader": "<font size=3><b>Чакыя с.Магарас</b></font>",
+        "clusterCaption": "Чакыя с.Магарас"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.708591, 135.492534 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Самалаах<br/><font size=2><b>Наименоваение объекта: </font></b>Самалаах с.Бетекёс<br/><font size=2><b>Вид: </font></b>Земляя дамба<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>Земляная дамба<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>2001<br/><font size=2><b>Площадь оросительной системы, га: </font></b>1872" ],
+        "balloonContentHeader": "<font size=3><b>Самалаах с.Бетекёс</b></font>",
+        "clusterCaption": "Самалаах с.Бетекёс"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.128175, 132.819434 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Уербэннээх<br/><font size=2><b>Наименоваение объекта: </font></b>Уербэннээх с.Бала<br/><font size=2><b>Вид: </font></b>Земляная плотина<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>Земляная плотина<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1976<br/><font size=2><b>Площадь оросительной системы, га: </font></b>70" ],
+        "balloonContentHeader": "<font size=3><b>Уербэннээх с.Бала</b></font>",
+        "clusterCaption": "Уербэннээх с.Бала"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.587841, 133.429167 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чайдаах, СЛО Халдьайылаах<br/><font size=2><b>Наименоваение объекта: </font></b>Боронук речки СЛО Чайдаах с.Боронук<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>2 - плотины; 3 - дамбы<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1980<br/><font size=2><b>Площадь оросительной системы, га: </font></b>630" ],
+        "balloonContentHeader": "<font size=3><b>Боронук речки СЛО Чайдаах с.Боронук</b></font>",
+        "clusterCaption": "Боронук речки СЛО Чайдаах с.Боронук"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.550846, 133.430750 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Эбэй-Красный Мыс<br/><font size=2><b>Наименоваение объекта: </font></b>Эбэй-Красный Мыс г.Верхоянск<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>2 - плотины<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1972<br/><font size=2><b>Площадь оросительной системы, га: </font></b>320" ],
+        "balloonContentHeader": "<font size=3><b>Эбэй-Красный Мыс г.Верхоянск</b></font>",
+        "clusterCaption": "Эбэй-Красный Мыс г.Верхоянск"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.198050, 132.117003 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Бэриньээх<br/><font size=2><b>Наименоваение объекта: </font></b>Бэринньээх с.Томтор<br/><font size=2><b>Вид: </font></b>Земляная дамба<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>Земляная дамба<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1961<br/><font size=2><b>Площадь оросительной системы, га: </font></b>520" ],
+        "balloonContentHeader": "<font size=3><b>Бэринньээх с.Томтор</b></font>",
+        "clusterCaption": "Бэринньээх с.Томтор"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.527139, 134.042306 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Большая Поляна<br/><font size=2><b>Наименоваение объекта: </font></b>Большая поляна с.Столбы<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>Земляная дамба; деревянный ш/р высотой - 1,5 м; шириной - 3 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>None<br/><font size=2><b>Площадь оросительной системы, га: </font></b>1016" ],
+        "balloonContentHeader": "<font size=3><b>Большая поляна с.Столбы</b></font>",
+        "clusterCaption": "Большая поляна с.Столбы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 67.564722, 134.490588 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Кумах<br/><font size=2><b>Наименоваение объекта: </font></b>Кумах с.Юттях<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>Центральная дамба длиной - 25 м; шириной - 4 м; высотой - 4 м; деревянный ш/р 2х2; комсомольская дамба длиной - 20 м; шириной - 4 м; высотой - 4 м; ш/р 2х2; отводная плотина длиной - 15 м; шириной - 4 м; высотой - 1 м<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1978<br/><font size=2><b>Площадь оросительной системы, га: </font></b>292" ],
+        "balloonContentHeader": "<font size=3><b>Кумах с.Юттях</b></font>",
+        "clusterCaption": "Кумах с.Юттях"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 68.681077, 134.423390 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Ынах-Кюель<br/><font size=2><b>Наименоваение объекта: </font></b>Ынах-Кель с.Сайдыы<br/><font size=2><b>Вид: </font></b>Плотина<br/><font size=2><b>Улус: </font></b>Верхоянский улус<br/><font size=2><b>Харатеристики: </font></b>7 - плотин; 5 - дамб; длина канала-14000м, h=1м, b=2,5м.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1975<br/><font size=2><b>Площадь оросительной системы, га: </font></b>600" ],
+        "balloonContentHeader": "<font size=3><b>Ынах-Кель с.Сайдыы</b></font>",
+        "clusterCaption": "Ынах-Кель с.Сайдыы"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 62.032227, 132.726472 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Болтогинская<br/><font size=2><b>Наименоваение объекта: </font></b>Болтогинская с.Болтоно<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Чурапчинский улус<br/><font size=2><b>Харатеристики: </font></b>ж/б ш/р - 1 шт. ; плотина - 1 шт. длиной - 1,11 км, высота 4-5м., ширина 4 м., расход 8,3 м3/с, до 21,8 м3/с., Площадь СЛО-337 га., объем бетона 499 м3, Объем временного водоема 0,6 млн. м3..;<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1978<br/><font size=2><b>Площадь оросительной системы, га: </font></b>337" ],
+        "balloonContentHeader": "<font size=3><b>Болтогинская с.Болтоно</b></font>",
+        "clusterCaption": "Болтогинская с.Болтоно"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.941533, 132.470613 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Хамыя 1<br/><font size=2><b>Наименоваение объекта: </font></b>Хамыя 1 с.Ожулун<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Чурапчинский улус<br/><font size=2><b>Харатеристики: </font></b>Ш-р, ж/б конструкции, Плотина, длина700м., высота 7-15м., ширина 10м., расход 27 м3/с., объем бетона 330м3, камень 214м3, арматура 23 тн., сваи 6м*0,3м-40шт., объем водоема 1,5 млн.м3<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1995<br/><font size=2><b>Площадь оросительной системы, га: </font></b>250" ],
+        "balloonContentHeader": "<font size=3><b>Хамыя 1 с.Ожулун</b></font>",
+        "clusterCaption": "Хамыя 1 с.Ожулун"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 60.465210, 120.358451 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Малая Черепахина<br/><font size=2><b>Наименоваение объекта: </font></b>Малая Черепахина с.Тюбэ<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/><font size=2><b>Улус: </font></b>Олекминский улус<br/><font size=2><b>Харатеристики: </font></b>Ж/б ш/р - 1 шт; плотина - 1 шт; длина канала - 7 км.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1984<br/><font size=2><b>Площадь оросительной системы, га: </font></b>495" ],
+        "balloonContentHeader": "<font size=3><b>Малая Черепахина с.Тюбэ</b></font>",
+        "clusterCaption": "Малая Черепахина с.Тюбэ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 61.836672, 128.962823 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Кыьыл Толон<br/><font size=2><b>Наименоваение объекта: </font></b>Кыьыл Толон с.Ой<br/><font size=2><b>Вид: </font></b>Дамба<br/><font size=2><b>Улус: </font></b>Хангаласский улус<br/><font size=2><b>Харатеристики: </font></b>дамба - 2 шт; трубчатые перемычки - 4 шт. диаметром 330 мм.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1976<br/><font size=2><b>Площадь оросительной системы, га: </font></b>300" ],
+        "balloonContentHeader": "<font size=3><b>Кыьыл Толон с.Ой</b></font>",
+        "clusterCaption": "Кыьыл Толон с.Ой"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.043528, 133.561094 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Мондо<br/><font size=2><b>Наименоваение объекта: </font></b>Мондо с.Булун<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/>Улус: </font></b>Таттинский улу<br/><font size=2><b>Харатеристики: </font></b>Ж/б ш/р - 1 шт; деревянные мосты - 7 шт; трубопереезды - 7 шт; эксплуатационная дорога - 25 км;<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1973<br/><font size=2><b>Площадь оросительной системы, га: </font></b>300" ],
+        "balloonContentHeader": "<font size=3><b>Мондо с.Булун</b></font>",
+        "clusterCaption": "Мондо с.Булун"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.065060, 129.833167 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Лиман Попова<br/><font size=2><b>Наименоваение объекта: </font></b>Лиман Попова с.Харыялах<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор <br/>Улус: </font></b>Намский улус<br/><font size=2><b>Харатеристики: </font></b>Ж/б ш/р - 1 шт; глухая земляная дамба длиной 50; шириной -3 м; пропускная способность - 16 м3/сек.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1982<br/><font size=2><b>Площадь оросительной системы, га: </font></b>250" ],
+        "balloonContentHeader": "<font size=3><b>Лиман Попова с.Харыялах</b></font>",
+        "clusterCaption": "Лиман Попова с.Харыялах"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 62.349646, 131.136450 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Туйма<br/><font size=2><b>Наименоваение объекта: </font></b>Туйма с.Бэйдингэ<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/>Улус: </font></b>Усть-Алданский улус<br/><font size=2><b>Харатеристики: </font></b>ж/б ш/р - 1 шт; плотина - 1 шт; длина канала - 2 км.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1987<br/><font size=2><b>Площадь оросительной системы, га: </font></b>231" ],
+        "balloonContentHeader": "<font size=3><b>Туйма с.Бэйдингэ</b></font>",
+        "clusterCaption": "Туйма с.Бэйдингэ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 63.402527, 130.608642 ]
+      },
+      "properties": {
+        "balloonContentBody": [ "<font size=2><b>СЛО: </font></b>СЛО Чагдайы<br/><font size=2><b>Наименоваение объекта: </font></b>Чагдайы с.Дыгдал<br/><font size=2><b>Вид: </font></b>Шлюз-регулятор<br/>Улус: </font></b>Усть-Алданский улус<br/><font size=2><b>Харатеристики: </font></b>деревянный ш/р - 1 шт; плотина - 1 шт; мост - 1 шт; длина канала - 8 км.<br/><font size=2><b>Год ввода в эксплуатацию: </font></b>1980<br/><font size=2><b>Площадь оросительной системы, га: </font></b>262" ],
+        "balloonContentHeader": "<font size=3><b>Чагдайы с.Дыгдал</b></font>",
+        "clusterCaption": "Чагдайы с.Дыгдал"
+      }
+    }
+
+  ]
+}

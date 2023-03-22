@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Вывод списка объектов карты</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!--
+        Укажите свой API-ключ. Тестовый ключ НЕ БУДЕТ работать на других сайтах.
+        Получить ключ можно в Кабинете разработчика: https://developer.tech.yandex.ru/keys/
+    -->
+    <script
+      src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=<ваш API-ключ>"
+      type="text/javascript"
+    ></script>
+    <script src="https://yandex.st/jquery/2.2.3/jquery.min.js" type="text/javascript"></script>
+    <script src="object_list.js" type="text/javascript"></script>
+
+    <style type="text/css">
+      html,
+      body {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        font-family: Arial;
+      }
+
+      #map {
+        width: 65%;
+        height: 600px;
+        padding: 0;
+        margin: 0;
+        float: left;
+      }
+      /* Оформление меню (начало)*/
+      .menu {
+        list-style: none;
+        padding: 5px;
+        margin: 0;
+      }
+      .submenu {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+
+        clip: rect(0 0 0 0);
+        width: 1px;
+        height: 1px;
+        margin: -1px;
+      }
+      ul {
+        display: flex;
+        padding-left: 0;
+        list-style: none;
+      }
+      li {
+        position: relative;
+      }
+      li:focus-within > .submenu,
+      li:hover > .submenu {
+        display: flex;
+        clip: auto;
+        width: auto;
+        height: auto;
+        margin: 0px;
+      }
+      a {
+        display: block;
+        color: black;
+        text-decoration: none;
+        background-color: #ccc;
+        padding: 1em;
+        white-space: nowrap;
+      }
+      a:hover {
+        background-color: pink;
+      }
+      a:focus {
+        outline: none;
+      }
+      .menu--vert {
+        flex-direction: column;
+        width: 300px;
+      }
+      .menu--vert .submenu {
+        top: 0;
+        left: 100%;
+      }
+    </style>
+
+    <a href="reg.php">Регистрация</a>
+    <a href="auth.php">Авторизация</a>
+
+  </head>
+
+  <body>
+    <div id="map">
+        <p class="par" style="position: absolute; top: 600px; left:10px"></p>
+    </div>
+    
+
+    <ul class="menu menu--vert">
+      <li><a href="FIS.html">Объект 2</a></li>
+      <li><a href="HS.html">Достопримечательности Якутска</a></li>
+    </ul>
+  </body>
+</html>
